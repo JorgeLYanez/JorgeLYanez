@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Abraham</h1>
-<h3 align="center">A passionate Computer Systems Engineer Student</h3>
+<h3 align="center">A passionate Computer Systems Engineer</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **jorgealy@gmail.com**
 
