@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **jorgealy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z3Y-4qGiR8Og97j-YvVPKASV_SR3VIHP/view?usp=sharing](https://drive.google.com/file/d/1Z3Y-4qGiR8Og97j-YvVPKASV_SR3VIHP/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Z3Y-4qGiR8Og97j-YvVPKASV_SR3VIHP/view?usp=sharing](https://drive.google.com/file/d/1n5GVPgzaikJUUMfpGIVMB7D-_Y9spkGF/view?usp=sharing)]
+  
 
 - ⚡ Fun fact **I have a VW Beetle 1991**
 
